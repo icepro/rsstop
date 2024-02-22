@@ -1,5 +1,5 @@
 {
-  "name": "alidns-nodejs",
+  "name": "alidns-nodejs-dd",
   "version": "1.0.2",
   "description": "阿里云解析API调用方式",
   "main": "index.js",
