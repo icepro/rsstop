@@ -1,5 +1,5 @@
 {
-  "name": "dns-check",
+  "name": "dns-check1998",
   "version": "1.0.0",
   "description": "A Node.js module to dynamically check DNS information for a given domain",
   "main": "dns-check.js",
